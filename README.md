@@ -1,4 +1,4 @@
-2048 GAME
+2048 GAME.
 The game used HTML, SCSS, JS.
 
 - [DEMO LINK](https://andrejgutnik.github.io/game-2048/)
